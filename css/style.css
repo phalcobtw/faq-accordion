@@ -86,8 +86,8 @@ body {
   padding: 0;
 }
 
-.button:hover {
-  color: purple;
+.faq-container button:hover {
+  color: purple !important;
 }
 
 .icons .minus {
